@@ -13,6 +13,7 @@
 
 ## 2. 15 September 2025
 
+- Tutorial: Using Logeion and Perseus
 - Discussion: How do Homer's narratological decisions influence our
   understanding of the plot of the _Iliad_?
 - Translation: _Iliad_ 6.37–118
@@ -25,12 +26,14 @@
 
 ## 3. 22 September 2025
 
+- Tutorial: Using treebanks
 - Discussion: What do the different levels of narrative do for the gift exchange
   between Glaukos and Diomedes?
 - Translation: _Iliad_ 6.119–236
 
 **Homework**
 
+- **Treebanking exercise 1**
 - Graziosi and Haubold, Introduction, pp. 18–24 (§§ 2.4–2.6)
 - _Iliad_ 6.237–369
 - Suggested reading: Excerpts from Marcel Mauss, 1925, _The Gift_
@@ -92,6 +95,7 @@
 
 **Homework**
 
+- **Treebanking Exercise 2**
 - Steiner, Introduction, pp. 31–43
 - _Odyssey_ 17.328–491
 
@@ -107,7 +111,8 @@
 
 ## 10. 17 November 2025 – Midterm 2
 
-- Translation: _Odyssey_
+- Translation: _Odyssey_: 17.492–606
+- Midterm 2
 
 **Homework**
 
