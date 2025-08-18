@@ -1,5 +1,7 @@
 # Greek Epic - Tufts University, Fall 2025
 
+<p><a href="https://commons.wikimedia.org/wiki/File:Sir_Lawrence_Alma-Tadema,_English_(born_Netherlands)_-_A_Reading_from_Homer_-_Google_Art_Project.jpg#/media/File:Sir_Lawrence_Alma-Tadema,_English_(born_Netherlands)_-_A_Reading_from_Homer_-_Google_Art_Project.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sir_Lawrence_Alma-Tadema%2C_English_%28born_Netherlands%29_-_A_Reading_from_Homer_-_Google_Art_Project.jpg" alt="Sir Lawrence Alma-Tadema, English (born Netherlands) - A Reading from Homer - Google Art Project.jpg" height="641" width="1280"></a><br>By <a href="https://en.wikipedia.org/wiki/en:Lawrence_Alma-Tadema" class="extiw" title="w:en:Lawrence Alma-Tadema"><span title="Dutch-born British painter (1836–1912)">Lawrence Alma-Tadema</span></a> - <a rel="nofollow" class="external text" href="//www.google.com/culturalinstitute/asset-viewer/fAFfW9CzajZAaA">Google Cultural Institute</a> maximum zoom level, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=21886584">Link</a></p>
+
 ## Details
 
 Time: M 6–8:30pm <br/>
