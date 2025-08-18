@@ -4,6 +4,8 @@
 
 - Syllabus and introductions
 - Sight-reading diagnostic
+- Lamar, 2020, "Generating Metrically Accurate Homeric Poetry",
+_International Journal of Transdisciplinary AI_ 2 (1): pp. 1–25
 - In-class: _Iliad_ 6.1–36
 
 **Homework**
@@ -33,7 +35,7 @@
 
 **Homework**
 
-- **Treebanking exercise 1**
+- **Treebanking exercise**
 - Graziosi and Haubold, Introduction, pp. 18–24 (§§ 2.4–2.6)
 - _Iliad_ 6.237–369
 - Suggested reading: Excerpts from Marcel Mauss, 1925, _The Gift_
@@ -51,11 +53,13 @@
 
 ## 5. 6 October 2025
 
+- Tutorial: Writing a born-digital commentary
 - Discussion: Andromache, Astyanax, and Hector
 - Translation: _Iliad_ 6.370–502
 
 **Homework**
 
+- **Digital commentary 1**
 - _Iliad_ 6.503–529 (end)
 - Study for Midterm 1
 
@@ -95,7 +99,7 @@
 
 **Homework**
 
-- **Treebanking Exercise 2**
+- - **Digital commentary 2**
 - Steiner, Introduction, pp. 31–43
 - _Odyssey_ 17.328–491
 
@@ -116,6 +120,7 @@
 
 **Homework**
 
+- **Digital commentary 3**
 - Finley, 1954, "Household, Kin, and Community" in _The World of Odysseus_ (in
   shared folder)
 - _Odyssey_ 18.1–157
