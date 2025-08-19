@@ -1,3 +1,11 @@
+---
+fontfamily: libertinus
+geometry:
+- margin=1in
+papersize: letter
+pdf-engine: lualatex
+---
+
 # Greek Epic – Fall 2025 – Course Schedule
 
 ## 1. 8 September 2025
