@@ -1,6 +1,6 @@
 # Greek Epic - Tufts University, Fall 2025
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Sir_Lawrence_Alma-Tadema,_English_(born_Netherlands)_-_A_Reading_from_Homer_-_Google_Art_Project.jpg#/media/File:Sir_Lawrence_Alma-Tadema,_English_(born_Netherlands)_-_A_Reading_from_Homer_-_Google_Art_Project.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sir_Lawrence_Alma-Tadema%2C_English_%28born_Netherlands%29_-_A_Reading_from_Homer_-_Google_Art_Project.jpg" alt="Sir Lawrence Alma-Tadema, English (born Netherlands) - A Reading from Homer - Google Art Project.jpg" height="641" width="1280"></a><br>By <a href="https://en.wikipedia.org/wiki/en:Lawrence_Alma-Tadema" class="extiw" title="w:en:Lawrence Alma-Tadema"><span title="Dutch-born British painter (1836–1912)">Lawrence Alma-Tadema</span></a> - <a rel="nofollow" class="external text" href="//www.google.com/culturalinstitute/asset-viewer/fAFfW9CzajZAaA">Google Cultural Institute</a> Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=21886584">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sir_Lawrence_Alma-Tadema,_English_(born_Netherlands)_-_A_Reading_from_Homer_-_Google_Art_Project.jpg#/media/File:Sir_Lawrence_Alma-Tadema,_English_(born_Netherlands)_-_A_Reading_from_Homer_-_Google_Art_Project.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sir_Lawrence_Alma-Tadema%2C_English_%28born_Netherlands%29_-_A_Reading_from_Homer_-_Google_Art_Project.jpg" alt="Sir Lawrence Alma-Tadema, English (born Netherlands) - A Reading from Homer - Google Art Project.jpg" height="641" width="1280"></a><br>By <a href="https://en.wikipedia.org/wiki/en:Lawrence_Alma-Tadema" class="extiw" title="w:en:Lawrence Alma-Tadema"><span title="Dutch-born British painter (1836–1912)">Lawrence Alma-Tadema</span></a> - <a rel="nofollow" class="external text" href="//www.google.com/culturalinstitute/asset-viewer/fAFfW9CzajZAaA">Google Cultural Institute</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=21886584">Link</a></p>
 
 ## Details
 
@@ -43,8 +43,17 @@ In addition to gaining essential skills for independent Greek reading, students
 will also learn how to use modern tools like treebanks and LLMs to complement —
 **not supplement** — their studies.
 
+## Learning outcomes
 
-## Textbooks
+After completing this course, students will be able to
+
+1. Read Homeric Greek with occasional help from a lexicon or other supplementary material
+2. Discuss the history of oral poetry in broad terms
+3. Discuss the composition history of ancient epic
+4. Understand the basic contours of the history of Homeric reception
+5. Interpret episodes from Homeric poetry with attention to their cultural and performance contexts
+
+## Required Textbooks
 
 - Graziosi, Barbara and Johannes Haubold, eds. 2010. _Homer:_ Iliad
   _Book VI_. Cambridge: Cambridge UP. ISBN: 9780521878845
@@ -133,11 +142,19 @@ To this end, we will adhere to the following guidelines:
 
 ### Attendance
 
-Emergencies arise. Everyone is permitted one unexcused absence. If you will need to miss additional classes, please let me know as soon as possible. Unexcused absences will count as a 0 for that day's translation grade.
+Emergencies arise. Everyone is permitted one unexcused absence. If you will need to miss additional
+classes, please let me know as soon as possible. Unexcused absences will count as a 0 for that day's
+translation grade.
+
+### Late work
+
+Late work will not be accepted. Extensions are handled on a case-by-case basis, but are
+generally pretty easy to obtain if you provide the instructor with sufficient notice.
 
 ### Computer use
 
-Please only use your computer (or tablet or phone) during designated times in class. Importantly, please **do not** use your computer when translating.
+Please only use your computer (or tablet or phone) during designated times in class. Importantly,
+please **do not** use your computer when translating.
 
 ### Food and drink
 
@@ -148,7 +165,14 @@ Otherwise, please stay hydrated.
 
 ### Sharing
 
-This course is designed for everyone to feel comfortable participating in discussion, asking questions, learning, and facilitating the learning of others.  In order for that atmosphere to be maintained, the recordings of our conversations will only be shared with the enrolled students in the class (not posted publicly) and it is prohibited for any of us who have access to the video to share it outside the course. Similarly, I have specifically designed the exams, handouts, and lectures for the people who are enrolled in the course this term and those may not be shared outside this course. All of this content is freely available on GitHub under a Creative Commons license — attribution is all that is required.
+This course is designed for everyone to feel comfortable participating in discussion, asking
+questions, learning, and facilitating the learning of others.  In order for that atmosphere to be
+maintained, the recordings of our conversations will only be shared with the enrolled students in
+the class (not posted publicly) and it is prohibited for any of us who have access to the video
+to share it outside the course. Similarly, I have specifically designed the exams, handouts, and
+lectures for the people who are enrolled in the course this term and those may not be shared outside
+this course. All of this content is freely available on GitHub under a Creative Commons license —
+attribution is all that is required.
 
 ## Resources
 
