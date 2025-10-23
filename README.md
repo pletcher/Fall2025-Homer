@@ -20,7 +20,7 @@ Public Domain [Source](https://commons.wikimedia.org/w/index.php?curid=21886584)
 Time: M 6–8:30pm    
 Location: Eaton Hall 201    
 Instructor: Charles Pletcher (charles.pletcher@tufts.edu)    
-Instructor Office Hours: TTh 3–4pm    
+Instructor Office Hours: TTh 5-6pm or by appointment (https://cal.com/pletcher)    
 
 ## Prerequisites
 
